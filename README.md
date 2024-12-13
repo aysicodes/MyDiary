@@ -1,1 +1,6 @@
 # MyDiary
+
+Endpoints: 
+GET:https://mydiary-production.up.railway.app/api/users  
+GET by ID:https://mydiary-production.up.railway.app/api/users/id  
+DELETE:https://mydiary-production.up.railway.app/api/users/id 
