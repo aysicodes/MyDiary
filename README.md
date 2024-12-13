@@ -1,6 +1,6 @@
 # MyDiary
 
-link that it's deployed succesfully:
+link that it's DEPLOYED SUCCESSFULLY:
 https://mydiary-production.up.railway.app/
 
 Endpoints: 
